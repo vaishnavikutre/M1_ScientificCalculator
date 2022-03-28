@@ -33,7 +33,7 @@ int main(void)
 
     UnityBegin(NULL);
 
-    RUN_TEST(test_add_integers);
+    RUN_TEST(automated_test_add_integers);
 
     return (UnityEnd());
 }
