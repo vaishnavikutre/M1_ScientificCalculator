@@ -78,7 +78,7 @@ and they can provide teachers with a versatile instructional tool. Students face
    - ***Opportunities***
         - Features - We can add more features and operations.
         - Testing - We can perform more test caes and make calculator robust.
-   - **Threats***
+   - ***Threats***
        - Competition
        - Sometime Makefile will not work then we can rewrite makefile with proper indentation of tab.
 
@@ -118,20 +118,20 @@ and they can provide teachers with a versatile instructional tool. Students face
       | `Makefile`                | Use of Makefile to run the apllication.                         | **Implemented**             |
      
 ##  Low level Requirements:
-    - | ID                        | ID                       | Description                                                     | Status (Implemented/Future) |
-      | :----------------------   | :------------------------| :---------------------------------------------------------------| :-------------------------- |
-      | `Mathematical Operations` | Adidition                | Addition of two floting numbers.                                | **Implemented**             |
-      | `Mathematical Operations` | Substraction             | Substraction of two floting numbers.                            | **Implemented**             |
-      | `Mathematical Operations` | Mutliplication           | Mutliplication of two floting numbers.                          | **Implemented**             |
-      | `Mathematical Operations` | Division                 | Division of two floting numbers.                                | **Implemented**             |
-      | :----------------------   | :------------------------| :---------------------------------------------------------------| :-------------------------- |
-      | `Trignometric Functions`  | Sine                     |  Opposite side/ Hypotenuse                                      | **Implemented**             |
-      | `Trignometric Functions`  | Cosine                   |  Adjacent side / Hypotenuse                                     | **Implemented**             |
-      | `Trignometric Functions`  | Tangent                  |  Opposite side / Adjacent side                                  | **Implemented**             |
-      | `Trignometric Functions`  | Cosecant                 |  Hypotenuse / Opposite side                                     | **Implemented**             |
-      | `Trignometric Functions`  | Secant                   |  Hypotenuse / Adjacent side                                     | **Implemented**             |
-      | `Trignometric Functions`  | Cotangent                |  Adjacent side / Opposite side                                  | **Implemented**             |
-      | :-----------------------  | :----------------------------------------------------------------------------------------  | **Implemented**             |
+    - | ID                        | ID             | Description                                  | Status (Implemented/Future) |
+      | :----------------------   | :--------------| :--------------------------------------------| :-------------------------- |
+      | `Mathematical Operations` | Adidition      | Addition of two floting numbers.             | **Implemented**             |
+      | `Mathematical Operations` | Substraction   | Substraction of two floting numbers.         | **Implemented**             |
+      | `Mathematical Operations` | Mutliplication | Mutliplication of two floting numbers.       | **Implemented**             |
+      | `Mathematical Operations` | Division       | Division of two floting numbers.             | **Implemented**             |
+      | :----------------------   | :--------------| :--------------------------------------------| :-------------------------- |
+      | `Trignometric Functions`  | Sine           |  Opposite side/ Hypotenuse                   | **Implemented**             |
+      | `Trignometric Functions`  | Cosine         |  Adjacent side / Hypotenuse                  | **Implemented**             |
+      | `Trignometric Functions`  | Tangent        |  Opposite side / Adjacent side               | **Implemented**             |
+      | `Trignometric Functions`  | Cosecant       |  Hypotenuse / Opposite side                  | **Implemented**             |
+      | `Trignometric Functions`  | Secant         |  Hypotenuse / Adjacent side                  | **Implemented**             |
+      | `Trignometric Functions`  | Cotangent      |  Adjacent side / Opposite side               | **Implemented**             |
+      | :-----------------------  | :--------------| -------------------------------------------  | **Implemented**             |
       
       
       
