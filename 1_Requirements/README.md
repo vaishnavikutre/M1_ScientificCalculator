@@ -54,6 +54,7 @@ and they can provide teachers with a versatile instructional tool. Students face
    - It contains normal mathematical functions, exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot etc.
    - The main moto of this apllication is to be comfurtable with C language,pointers,functions and main thing is to be familiar with Unit testing.
    - ***Unit testing*** is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. This testing methodology is done during the development process by the developers.
+   - Here I used [unity framework](https://github.com/ThrowTheSwitch/Unity)
    
  ![maketest](https://user-images.githubusercontent.com/60938404/161231621-c428f0ca-b470-4b81-a38b-f3212bcbb0fa.png)
 
@@ -102,10 +103,20 @@ and they can provide teachers with a versatile instructional tool. Students face
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
-
-
+   -  | ID                        | Description                                                     | Status (Implemented/Future) |
+      | :----------------------   | :-------------------------------------------------------------- | :-------------------------- |
+      | `Mathematical Operations` | Calculations like Addition,Substraction,Mutliplication,Division | **Implemented**             |
+      | `Trignometric Functions`  | Functions like Sine,Cosine,Tan,Cosec,Sec,Cot                    | **Implemented**             |
+      | `Logarithmic Operations`  | logarithm with a base equal to 10.                              | **Implemented**             |
+      | `Power Operation`         | It indicates that the base is to be raised to a certain power.  | **Implemented**             |
+      | `Squreroot Operation`     | a square root of a number x is a number y such that y2 = x      | **Implemented**             |
+      | `Cuberoot Operation`      | a cube root of a number x is a number y such that y3 = x        | **Implemented**             |
+      | `Exponent Operation`      | exp(x) =e^x."e" is a universal constant, e = 2.718281828.       | **Implemented**             |
+      | `Modulo Operation`        | fmodf(x/y) method returns the remainder (modulo) of x/y.        | **Implemented**             |
+      | `Unit Testing`            | Unit testing for all operations.                                | **Implemented**             |
+      | `Doxygen Comments`        | Doxygen comments in files.                                      | **Implemented**             |
+      | `Makefile`                | Use of Makefile to run the apllication.                         | **Implemented**             |
+     
 ##  Low level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
