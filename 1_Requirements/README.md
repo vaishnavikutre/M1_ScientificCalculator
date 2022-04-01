@@ -50,7 +50,20 @@ and they can provide teachers with a versatile instructional tool. Students face
 
            
 ## Defining Our System
-    -- TBD
+   - This is Scientific Calculator build using **C language**.
+   - It contains normal mathematical functions, exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot etc.
+   - The main moto of this apllication is to be comfurtable with C language,pointers,functions and main thing is to be familiar with Unit testing.
+   - ***Unit testing*** is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. This testing methodology is done during the development process by the developers.
+   
+ ![maketest](https://user-images.githubusercontent.com/60938404/161231621-c428f0ca-b470-4b81-a38b-f3212bcbb0fa.png)
+
+
+    
+   - In this apllication I used ***Makefile*** which is special file, containing shell commands, that you create and name makefile.While in the directory containing this makefile, you will type make and the commands in the makefile will be executed.
+   ![makerun](https://user-images.githubusercontent.com/60938404/161230876-a3b80f8e-4c46-4a1f-ace5-711a8651c093.png)
+
+   - In this apllication we are using ***Doxygen*** which is a documentation generator and static analysis tool for software source trees. When used as a documentation generator, Doxygen extracts information from specially-formatted comments within the code.
+   
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
