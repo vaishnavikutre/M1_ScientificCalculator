@@ -116,41 +116,20 @@ and they can provide teachers with a versatile instructional tool. Students face
       | `Unit Testing`            | Unit testing for all operations.                                | **Implemented**             |
       | `Doxygen Comments`        | Doxygen comments in files.                                      | **Implemented**             |
       | `Makefile`                | Use of Makefile to run the apllication.                         | **Implemented**             |
+      
      
-##  Low level Requirements:
-    - | ID                        | ID             | Description                                  | Status (Implemented/Future) |
-      | :----------------------   | :--------------| :--------------------------------------------| :-------------------------- |
-      | `Mathematical Operations` | Adidition      | Addition of two floting numbers.             | **Implemented**             |
-      | `Mathematical Operations` | Substraction   | Substraction of two floting numbers.         | **Implemented**             |
-      | `Mathematical Operations` | Mutliplication | Mutliplication of two floting numbers.       | **Implemented**             |
-      | `Mathematical Operations` | Division       | Division of two floting numbers.             | **Implemented**             |
-      | :----------------------   | :--------------| :--------------------------------------------| :-------------------------- |
-      | `Trignometric Functions`  | Sine           |  Opposite side/ Hypotenuse                   | **Implemented**             |
-      | `Trignometric Functions`  | Cosine         |  Adjacent side / Hypotenuse                  | **Implemented**             |
-      | `Trignometric Functions`  | Tangent        |  Opposite side / Adjacent side               | **Implemented**             |
-      | `Trignometric Functions`  | Cosecant       |  Hypotenuse / Opposite side                  | **Implemented**             |
-      | `Trignometric Functions`  | Secant         |  Hypotenuse / Adjacent side                  | **Implemented**             |
-      | `Trignometric Functions`  | Cotangent      |  Adjacent side / Opposite side               | **Implemented**             |
-      | :-----------------------  | :--------------| -------------------------------------------  | **Implemented**             |
-      
-      
-      
-
-      
-      
-
-      
-      
-
-      
-      
-
-      
-      
-
-      
-      
-
-      
-      
-      
+## Low Level Requirements:
+   -   | ID of HLR                 | ID of LLR      | Description                                  | Status (Implemented/Future) |
+       | :----------------------   | :--------------| :------------------------------------------- | :-------------------------- |
+       | `Mathematical Operations` | Adidition      | Addition of two floting numbers.             | **Implemented**             |
+       | `Mathematical Operations` | Substraction   | Substraction of two floting numbers.         | **Implemented**             |
+       | `Mathematical Operations` | Mutliplication | Mutliplication of two floting numbers.       | **Implemented**             |
+       | `Mathematical Operations` | Division       | Division of two floting numbers.             | **Implemented**             |
+       | `Trignometric Functions`  | Sine           |  Opposite side/ Hypotenuse                   | **Implemented**             |
+       | `Trignometric Functions`  | Cosine         |  Adjacent side / Hypotenuse                  | **Implemented**             |
+       | `Trignometric Functions`  | Tangent        |  Opposite side / Adjacent side               | **Implemented**             |
+       | `Trignometric Functions`  | Cosecant       |  Hypotenuse / Opposite side                  | **Implemented**             |
+       | `Trignometric Functions`  | Secant         |  Hypotenuse / Adjacent side                  | **Implemented**             |
+       | `Trignometric Functions`  | Cotangent      |  Adjacent side / Opposite side               | **Implemented**             |
+    
+   
