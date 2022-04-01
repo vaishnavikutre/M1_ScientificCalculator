@@ -10,7 +10,7 @@ and they can provide teachers with a versatile instructional tool. Students face
        - Almost  all  scientific  calculators  posses  a  temporary  register  under  the  key  Ans,  which automatically modifies after each computation, and holds the current result. In design or analysis, this  result  is  usually  needed  by  the  next  step.  Still  there  are  examples  where  recursive computations are necessary to ascertain the final results. Normally, calculators have a few more variable  like  A,  B,  C,  ...  but  presently  a  description  is  restricted  on  some  simple  tricks  based upon the Ans key only. In below figure the general scheme adopted here is presented.
        
         ![flowgraph1](https://user-images.githubusercontent.com/97722998/161201975-a26d7422-cc4b-40aa-ae4f-94aa9c62eec3.png)
-   
+  
 ## Cost and Features and Timeline
    - **Cost**
    - ***Low cost Calculator*** - 300-400 rupees/-
@@ -30,18 +30,19 @@ and they can provide teachers with a versatile instructional tool. Students face
              ![image](https://user-images.githubusercontent.com/60938404/161221886-2f87e17b-6225-49d5-aec4-321a6f19720f.png)
              - The HP-35, introduced on February 1, 1972, was Hewlett-Packard's first pocket calculator and the world's first handheld scientific calculator. Like some of HP's desktop calculators it used RPN. Introduced at US$395, the HP-35 was available from 1972 to 1975.
              
-              ![image](https://user-images.githubusercontent.com/60938404/161222365-d33cdfed-e4c3-4f3d-9f56-1b8c0015a13f.png)
+             ![image](https://user-images.githubusercontent.com/60938404/161222365-d33cdfed-e4c3-4f3d-9f56-1b8c0015a13f.png)
 
 
         - ***Today***
              - Casio FX-CG50 Scientific Graphic Calculator
              - M.R.P. : 13,295.00
-             
-              ![image](https://user-images.githubusercontent.com/60938404/161222715-4661132d-0d93-4ebb-b5f6-793f8ec64745.png)
+  
+             ![Screenshot 2022-04-01 013418](https://user-images.githubusercontent.com/60938404/161227005-c3f14b4b-f00d-49b3-94f7-9e1afb43088c.png)
+
              - FX-991ES Plus-2nd Edition Scientific Calculator
              - M.R.P.: 1200
              
-             ![image](https://user-images.githubusercontent.com/60938404/161222996-9069a1b1-e7d7-4bab-a3cb-9c9bce84a0dd.png)
+             ![2](https://user-images.githubusercontent.com/60938404/161227943-e7440fc2-578b-47a2-979d-a1f0c101dcef.png)
 
 
         - ***Future***
@@ -53,7 +54,8 @@ and they can provide teachers with a versatile instructional tool. Students face
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
-# 4W&#39;s and 1&#39;H
+# 4W&#39;s and 1&#39;H!
+
 
 ## Who:
 
