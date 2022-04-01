@@ -65,30 +65,40 @@ and they can provide teachers with a versatile instructional tool. Students face
    - In this apllication we are using ***Doxygen*** which is a documentation generator and static analysis tool for software source trees. When used as a documentation generator, Doxygen extracts information from specially-formatted comments within the code.
    
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+   - **SWOT analysis** is a strategic planning and strategic management technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning. It is sometimes called situational assessment or situational analysis.
+   - ***Strengths***
+        - It can perform It mathematical , exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot operations.
+        - The operations are tested during development phase using ***Unit Testing***.
+        - It has Doxygen comments.
+        - It is easy to use using Makefile.
+   - ***Weaknesses***
+        - We have to use one of the editor to perform operstions or calculation.
+        - Specific - It will perform the mentioned operations only.
+   - ***Opportunities***
+        - Features - We can add more features and operations.
+        - Testing - We can perform more test caes and make calculator robust.
+   - **Threats***
+       - Competition
+       - Sometime Makefile will not work then we can rewrite makefile with proper indentation of tab.
 
 # 4W&#39;s and 1&#39;H!
 
 
 ## Who:
-
-**TBD**
+   - Scientific calculators are used by Student,Teacher,Scientists physicist or chemist etc.
 
 ## What:
-
-**TBD**
+   - A Scientific Calculator is a type of electronic calculator, designed to calculate problems in science, engineering, and mathematics. They have completely replaced slide rules in traditional applications, and are widely used in both education and professional settings. 
 
 ## When:
-
-**TBD**
-
+   - It is used to perform basic functions such as addition, subtraction, multiplication, and division,logarithms,sine, cosine, and tangent functions,power,Squreroot,cuberoot etc.
 ## Where:
-
-**TBD**
-
+   - Scientific calculators are used widely in situations that require quick access to certain mathematical functions, especially those that were once looked up in mathematical tables, such as trigonometric functions or logarithms.
 ## How:
-
-**TBD**
+   - The working is very easy.Open the terminal and mention the correct path till 3_Implementation then **make run** command to run the apllication.
+  ![makerun](https://user-images.githubusercontent.com/60938404/161230876-a3b80f8e-4c46-4a1f-ace5-711a8651c093.png)
+   - Then select the option you want for exampple, to perform addition operation enter 1 and then enter operands to perfom addition.
+  ![addition](https://user-images.githubusercontent.com/60938404/161239986-eb3c7b19-b12a-440e-9a81-d573335239f5.png)
 
 # Detail requirements
 ## High Level Requirements:
