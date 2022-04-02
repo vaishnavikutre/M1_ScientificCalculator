@@ -121,7 +121,7 @@ and they can provide teachers with a versatile instructional tool. Students face
 ## Low Level Requirements:
    -   | ID of HLR                 | ID of LLR      | Description                                  | Status (Implemented/Future) |
        | :----------------------   | :--------------| :------------------------------------------- | :-------------------------- |
-       | `Mathematical Operations` | Adidition      | Addition of two floting numbers.             | **Implemented**             |
+       | `Mathematical Operations` | Addition       | Addition of two floting numbers.             | **Implemented**             |
        | `Mathematical Operations` | Substraction   | Substraction of two floting numbers.         | **Implemented**             |
        | `Mathematical Operations` | Mutliplication | Mutliplication of two floting numbers.       | **Implemented**             |
        | `Mathematical Operations` | Division       | Division of two floting numbers.             | **Implemented**             |
@@ -132,4 +132,4 @@ and they can provide teachers with a versatile instructional tool. Students face
        | `Trignometric Functions`  | Secant         |  Hypotenuse / Adjacent side                  | **Implemented**             |
        | `Trignometric Functions`  | Cotangent      |  Adjacent side / Opposite side               | **Implemented**             |
     
-   
+  
