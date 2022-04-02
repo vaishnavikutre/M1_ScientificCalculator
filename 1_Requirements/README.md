@@ -103,33 +103,33 @@ and they can provide teachers with a versatile instructional tool. Students face
 
 # Detail requirements
 ## High Level Requirements:
-   -  | ID                        | Description                                                     | Status (Implemented/Future) |
-      | :----------------------   | :-------------------------------------------------------------- | :-------------------------- |
-      | `Mathematical Operations` | Calculations like Addition,Substraction,Mutliplication,Division | **Implemented**             |
-      | `Trignometric Functions`  | Functions like Sine,Cosine,Tan,Cosec,Sec,Cot                    | **Implemented**             |
-      | `Logarithmic Operations`  | logarithm with a base equal to 10.                              | **Implemented**             |
-      | `Power Operation`         | It indicates that the base is to be raised to a certain power.  | **Implemented**             |
-      | `Squreroot Operation`     | a square root of a number x is a number y such that y2 = x      | **Implemented**             |
-      | `Cuberoot Operation`      | a cube root of a number x is a number y such that y3 = x        | **Implemented**             |
-      | `Exponent Operation`      | exp(x) =e^x."e" is a universal constant, e = 2.718281828.       | **Implemented**             |
-      | `Modulo Operation`        | fmodf(x/y) method returns the remainder (modulo) of x/y.        | **Implemented**             |
-      | `Unit Testing`            | Unit testing for all operations.                                | **Implemented**             |
-      | `Doxygen Comments`        | Doxygen comments in files.                                      | **Implemented**             |
-      | `Makefile`                | Use of Makefile to run the apllication.                         | **Implemented**             |
+   -  | ID   | Description                                                                                 | Status (Implemented/Future) |
+      | :--- | :--------------------------------------------------------------                             | :-------------------------- |
+      | H_01 | `Mathematical Operations` - Calculations like Addition,Substraction,Mutliplication,Division | **Implemented**             |
+      | H_02 | `Trignometric Functions` - Functions like Sine,Cosine,Tan,Cosec,Sec,Cot                     | **Implemented**             |
+      | H_03 | `Logarithmic Operations` - logarithm with a base equal to 10.                               | **Implemented**             |
+      | H_04 | `Power Operation` - It indicates that the base is to be raised to a certain power.          | **Implemented**             |
+      | H_05 | `Squreroot Operation` - a square root of a number x is a number y such that y2 = x          | **Implemented**             |
+      | H_06 | `Cuberoot Operation` - a cube root of a number x is a number y such that y3 = x             | **Implemented**             |
+      | H_07 | `Exponent Operation` - exp(x) =e^x."e" is a universal constant, e = 2.718281828.            | **Implemented**             |
+      | H_08 | `Modulo Operation` - fmodf(x/y) method returns the remainder (modulo) of x/y.               | **Implemented**             |
+      | H_09 | `Unit Testing` - Unit testing for all operations.                                           | **Implemented**             |
+      | H_10 | `Doxygen Comments` - Doxygen comments in files.                                             | **Implemented**             |
+      | H_11 | `Makefile` - Use of Makefile to run the apllication.                                        | **Implemented**             |
       
      
 ## Low Level Requirements:
-   -   | ID of HLR                 | ID of LLR      | Description                                  | Status (Implemented/Future) |
-       | :----------------------   | :--------------| :------------------------------------------- | :-------------------------- |
-       | `Mathematical Operations` | Addition       | Addition of two floting numbers.             | **Implemented**             |
-       | `Mathematical Operations` | Substraction   | Substraction of two floting numbers.         | **Implemented**             |
-       | `Mathematical Operations` | Mutliplication | Mutliplication of two floting numbers.       | **Implemented**             |
-       | `Mathematical Operations` | Division       | Division of two floting numbers.             | **Implemented**             |
-       | `Trignometric Functions`  | Sine           |  Opposite side/ Hypotenuse                   | **Implemented**             |
-       | `Trignometric Functions`  | Cosine         |  Adjacent side / Hypotenuse                  | **Implemented**             |
-       | `Trignometric Functions`  | Tangent        |  Opposite side / Adjacent side               | **Implemented**             |
-       | `Trignometric Functions`  | Cosecant       |  Hypotenuse / Opposite side                  | **Implemented**             |
-       | `Trignometric Functions`  | Secant         |  Hypotenuse / Adjacent side                  | **Implemented**             |
-       | `Trignometric Functions`  | Cotangent      |  Adjacent side / Opposite side               | **Implemented**             |
+   -   | ID of HLR | ID of LLR      | Description                                  | Status (Implemented/Future) |
+       | :----     | :--------------| :------------------------------------------- | :-------------------------- |
+       |  H_01     | Addition       | Addition of two floting numbers.             | **Implemented**             |
+       |  H_01     | Substraction   | Substraction of two floting numbers.         | **Implemented**             |
+       |  H_01     | Mutliplication | Mutliplication of two floting numbers.       | **Implemented**             |
+       | H_01      | Division       | Division of two floting numbers.             | **Implemented**             |
+       | H_02      | Sine           |  Opposite side/ Hypotenuse                   | **Implemented**             |
+       | H_02      | Cosine         |  Adjacent side / Hypotenuse                  | **Implemented**             |
+       | H_02      | Tangent        |  Opposite side / Adjacent side               | **Implemented**             |
+       | H_02      | Cosecant       |  Hypotenuse / Opposite side                  | **Implemented**             |
+       | H_02      | Secant         |  Hypotenuse / Adjacent side                  | **Implemented**             |
+       | H_02      | Cotangent      |  Adjacent side / Opposite side               | **Implemented**             |
     
   
