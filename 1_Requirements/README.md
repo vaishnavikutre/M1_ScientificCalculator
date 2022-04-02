@@ -9,9 +9,10 @@ and they can provide teachers with a versatile instructional tool. Students face
 -   Today’s scientific calculators are highly powerful and  if  their operation is properly understood, a little innovative imagination can  do wonders. Long calculations are  a  normal part of design and analysis, where students spend time like anything, and conclude the computational procedure in distaste.
    
 -   **Calculator Techniques**
-  -   Almost  all  scientific  calculators  posses  a  temporary  register  under  the  key  Ans,  which automatically modifies after each computation, and holds the current result. In design or analysis, this  result  is  usually  needed  by  the  next  step.  Still  there  are  examples  where  recursive computations are necessary to ascertain the final results. Normally, calculators have a few more variable  like  A,  B,  C,  ...  but  presently  a  description  is  restricted  on  some  simple  tricks  based upon the Ans key only. In below figure the general scheme adopted here is presented.
+
+-   Almost  all  scientific  calculators  posses  a  temporary  register  under  the  key  Ans,  which automatically modifies after each computation, and holds the current result. In design or analysis, this  result  is  usually  needed  by  the  next  step.  Still  there  are  examples  where  recursive computations are necessary to ascertain the final results. Normally, calculators have a few more variable  like  A,  B,  C,  ...  but  presently  a  description  is  restricted  on  some  simple  tricks  based upon the Ans key only. In below figure the general scheme adopted here is presented.
        
-        ![flowgraph1](https://user-images.githubusercontent.com/97722998/161201975-a26d7422-cc4b-40aa-ae4f-94aa9c62eec3.png)
+      ![flowgraph1](https://user-images.githubusercontent.com/97722998/161201975-a26d7422-cc4b-40aa-ae4f-94aa9c62eec3.png)
   
 ## Cost and Features and Timeline
 -   **Cost**
@@ -62,20 +63,15 @@ and they can provide teachers with a versatile instructional tool. Students face
              
              ![2](https://user-images.githubusercontent.com/60938404/161227943-e7440fc2-578b-47a2-979d-a1f0c101dcef.png)
 
-
- -   ***Future***
+ -  **Future***
  
  -   We can make Calculator much more robust by adding avanced features that are usefull for science, engineering, and mathematics.
-
-           
+        
 ## Defining Our System
 
 -   This is Scientific Calculator build using **C language**.
-
 -   It contains normal mathematical functions, exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot etc.
-
--   The main moto of this apllication is to be comfurtable with C language,pointers,functions and main thing is to be familiar with Unit testing.
-   
+-   The main moto of this apllication is to be comfurtable with C language,pointers,functions and main thing is to be familiar with Unit testing. 
 -   ***Unit testing*** is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. This testing methodology is done during the development process by the developers.
    
  -   Here I used [unity framework](https://github.com/ThrowTheSwitch/Unity)
@@ -97,23 +93,22 @@ and they can provide teachers with a versatile instructional tool. Students face
 
 -   The operations are tested during development phase using ***Unit Testing***.
 
- -   It has Doxygen comments.
+-   It has Doxygen comments.
         -   It is easy to use using Makefile.
         
- -  ***Weaknesses***
+-   ***Weaknesses***
         -   We have to use one of the editor to perform operstions or calculation.
         -   Specific - It will perform the mentioned operations only.
         
--  ***Opportunities***
+-   ***Opportunities***
       -   Features - We can add more features and operations.
       -   Testing - We can perform more test caes and make calculator robust.
       
 -   ***Threats***
-     -   Competition
-     -   Sometime Makefile will not work then we can rewrite makefile with proper indentation of tab.
+   -   Competition
+   -   Sometime Makefile will not work then we can rewrite makefile with proper indentation of tab.
 
 ## 4W&#39;s and 1&#39;H
-
 
 ## Who
 -   Scientific calculators are used by Student,Teacher,Scientists physicist or chemist etc.
