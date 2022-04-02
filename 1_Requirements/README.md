@@ -45,7 +45,9 @@ and they can provide teachers with a versatile instructional tool. Students face
             
              ![image](https://user-images.githubusercontent.com/60938404/161221886-2f87e17b-6225-49d5-aec4-321a6f19720f.png)
              
+             
 -   The HP-35, introduced on February 1, 1972, was Hewlett-Packard's first pocket calculator and the world's first handheld scientific calculator.
+
 -   Like some of HP's desktop calculators it used RPN. Introduced at US$395, the HP-35 was available from 1972 to 1975.
              
              ![image](https://user-images.githubusercontent.com/60938404/161222365-d33cdfed-e4c3-4f3d-9f56-1b8c0015a13f.png)
@@ -74,7 +76,7 @@ and they can provide teachers with a versatile instructional tool. Students face
 -   It contains normal mathematical functions, exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot etc.
 -   The main moto of this apllication is to be comfurtable with C language,pointers,functions and main thing is to be familiar with Unit testing. 
 -   ***Unit testing*** is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. This testing methodology is done during the development process by the developers.   
- -   Here I used [unity framework](https://github.com/ThrowTheSwitch/Unity)
+-   Here I used [unity framework](https://github.com/ThrowTheSwitch/Unity)
    
  ![maketest](https://user-images.githubusercontent.com/60938404/161231621-c428f0ca-b470-4b81-a38b-f3212bcbb0fa.png)
 
@@ -101,8 +103,10 @@ and they can provide teachers with a versatile instructional tool. Students face
         -   Specific - It will perform the mentioned operations only.
         
 -   ***Opportunities***
-   -   Features - We can add more features and operations.
-   -   Testing - We can perform more test caes and make calculator robust.
+
+-   Features - We can add more features and operations.
+
+-   Testing - We can perform more test caes and make calculator robust.
       
 -   ***Threats***
 
