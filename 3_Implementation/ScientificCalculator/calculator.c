@@ -49,14 +49,14 @@ int main() {
     case ADDITION :
     {
       float x,y;
-      float *p1,*p2;
+      float p1,*p2;
       p1=&x;
       p2=&y;
       printf("\tEnter 1st operand :\n\t");
       scanf("%f",p1);
       printf("\tEnter 2nd operand :\n\t");
       scanf("%f",p2);
-      result=add(*p1,*p2);
+      result=add(x,y);
       printf("\t%f\n",result);
       break;
     }
