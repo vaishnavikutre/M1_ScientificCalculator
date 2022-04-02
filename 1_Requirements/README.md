@@ -45,7 +45,8 @@ and they can provide teachers with a versatile instructional tool. Students face
             
              ![image](https://user-images.githubusercontent.com/60938404/161221886-2f87e17b-6225-49d5-aec4-321a6f19720f.png)
              
-             
+
+
 -   The HP-35, introduced on February 1, 1972, was Hewlett-Packard's first pocket calculator and the world's first handheld scientific calculator.
 
 -   Like some of HP's desktop calculators it used RPN. Introduced at US$395, the HP-35 was available from 1972 to 1975.
