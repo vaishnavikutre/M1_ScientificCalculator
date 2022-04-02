@@ -58,8 +58,21 @@
  
  
  
+ ### Table no: Low level test plan
  
- 
+  | Test ID   |  Description                          | Exp I/P                     | Exp O/P                                         | Actual Output                | 
+  | :-------- | :-----------------------------        | :--------                   | :--------------                                 | :--------------------------  |
+  |   L_01    | All Mathematical operations           | operand1,operand2           |    Pass                                         |      Pass                    |
+  |   L_02    | All Trignometric operations           | operand1,operand2           |    Pass                                         |      Pass                    |
+  |   L_03    | Logarithmic Operations                | operand1 = 5                |    0.698970                                     |      0.698970                |
+  |   L_04    | Squreroot Operations                  | operand1 = 25               |     5.000000                                    |      5.000000                |
+  |   L_05    | Power Operations                      | operand1 = 5 ,operand2 = 2  |    25.000000                                    |      25.000000               |
+  |   L_06    | Cuberoot Operations                   | operand1 = 27               |    3.000000                                     |      3.000000                |
+  |   L_07    | Exponent Operations                   | operand1 = 2                |    7.389056                                     |      7.389056                |
+  |   L_08    | Modulo Operations                     | operand1 = 2,operand2 = 4   |    2.000000                                     |      2.000000                |
+  |   L_09    | If we enter wrong number choice       | operand1 = 17               |Show some message that enter correct i/p         |Selected option not available |
+  |   L_10    | If we enter two otions with space     | operand1 = 1 4              | Error or msg or give preferrence to first option|It will give 1 option result |
+      
  
  
  
