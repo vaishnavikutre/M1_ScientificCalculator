@@ -1,5 +1,5 @@
-#  Certificates
-*  Sololearn
+# Certificates
+  * Sololearn
 
   ![image](https://user-images.githubusercontent.com/60938404/161256798-2181fe0a-faab-4ada-a353-3b1eab85d82c.png)
 
