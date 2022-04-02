@@ -1,4 +1,4 @@
-## TEST PLAN:
+## TEST PLAN
 #### Table no: Low level test plan
      - For each ID of LLR there are 5 test cases.
 
