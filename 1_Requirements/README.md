@@ -3,8 +3,9 @@
 -   A Scientific Calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have completely replaced slide rules in traditional applications, and are widely used in both education and professional settings. 
 
 ##   Research
-   -   Calculators provide advantages for students when performing calculations
+-   Calculators provide advantages for students when performing calculations
 and they can provide teachers with a versatile instructional tool. Students face highstakes mathematics tests each year in middle school and must take Regents and college entrance exams during their high school career. It is important to properly integrate calculator use so that students can derive the full benefit of familiarity with the instrument while maintaining a high level of student proficiency with paper and pencil calculations.
+
 - Today’s scientific calculators are highly powerful and  if  their operation is properly understood, a little innovative imagination can  do wonders. Long calculations are  a  normal part of design and analysis, where students spend time like anything, and conclude the computational procedure in distaste.
 - **Calculator Techniques**
        - Almost  all  scientific  calculators  posses  a  temporary  register  under  the  key  Ans,  which automatically modifies after each computation, and holds the current result. In design or analysis, this  result  is  usually  needed  by  the  next  step.  Still  there  are  examples  where  recursive computations are necessary to ascertain the final results. Normally, calculators have a few more variable  like  A,  B,  C,  ...  but  presently  a  description  is  restricted  on  some  simple  tricks  based upon the Ans key only. In below figure the general scheme adopted here is presented.
