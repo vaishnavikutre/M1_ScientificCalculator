@@ -75,7 +75,7 @@ and they can provide teachers with a versatile instructional tool. Students face
    - ***Weaknesses***
         - We have to use one of the editor to perform operstions or calculation.
         - Specific - It will perform the mentioned operations only.
-   - ***Opportunities***
+   -  ***Opportunities***
         - Features - We can add more features and operations.
         - Testing - We can perform more test caes and make calculator robust.
    - ***Threats***
@@ -85,24 +85,24 @@ and they can provide teachers with a versatile instructional tool. Students face
 # 4W&#39;s and 1&#39;H!
 
 
-## Who:
+## Who
    - Scientific calculators are used by Student,Teacher,Scientists physicist or chemist etc.
 
-## What:
+## What
    - A Scientific Calculator is a type of electronic calculator, designed to calculate problems in science, engineering, and mathematics. They have completely replaced slide rules in traditional applications, and are widely used in both education and professional settings. 
 
-## When:
+## When
    - It is used to perform basic functions such as addition, subtraction, multiplication, and division,logarithms,sine, cosine, and tangent functions,power,Squreroot,cuberoot etc.
-## Where:
+## Where
    - Scientific calculators are used widely in situations that require quick access to certain mathematical functions, especially those that were once looked up in mathematical tables, such as trigonometric functions or logarithms.
-## How:
+## How
    - The working is very easy.Open the terminal and mention the correct path till 3_Implementation then **make run** command to run the apllication.
   ![makerun](https://user-images.githubusercontent.com/60938404/161230876-a3b80f8e-4c46-4a1f-ace5-711a8651c093.png)
    - Then select the option you want for exampple, to perform addition operation enter 1 and then enter operands to perfom addition.
   ![addition](https://user-images.githubusercontent.com/60938404/161239986-eb3c7b19-b12a-440e-9a81-d573335239f5.png)
 
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
    -  | ID   | Description                                                                                 | Status (Implemented/Future) |
       | :--- | :--------------------------------------------------------------                             | :-------------------------- |
       | H_01 | `Mathematical Operations` - Calculations like Addition,Substraction,Mutliplication,Division | **Implemented**             |
@@ -118,7 +118,7 @@ and they can provide teachers with a versatile instructional tool. Students face
       | H_11 | `Makefile` - Use of Makefile to run the apllication.                                        | **Implemented**             |
       
      
-## Low Level Requirements:
+## Low Level Requirements
    -   | ID of HLR | ID of LLR      | Description                                  | Status (Implemented/Future) |
        | :----     | :--------------| :------------------------------------------- | :-------------------------- |
        |  H_01     | Addition       | Addition of two floting numbers.             | **Implemented**             |
