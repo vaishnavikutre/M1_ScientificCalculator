@@ -16,66 +16,89 @@ and they can provide teachers with a versatile instructional tool. Students face
 ## Cost and Features and Timeline
 -   **Cost**
    
-   - ***Low cost Calculator*** - 300-400 rupees/-
-   - ***Mid cost Calculator*** - 800-1000 rupees/-
-   - ***High cost Calculator*** - 5000 rupees/-
-   - **Features**
-   - ***Low cost Calculator***
-        - Scientific calculators include exponents, log, natural log (ln), trig functions, and memory.
-   - ***Mid cost Calculator*** 
-        -  Include exponents, log, natural log (ln), trig functions, and memory,Scientific notation,Binary functions,dual display.
-   - ***High cost Calculator*** 
-        - Include Solar-powered with battery backup,Graphic Calculator with 2900+ functions,Advanced 3D Graphing,App can be transferred to calculator through supplied USB cable etc.
-   - **Timeline**
-        - ***Past***
-             - The Hewlett-Packard 9100A is an early programmable calculator, first appearing in 1968. HP called it a desktop calculator because, as Bill Hewlett said, "If we had called it a computer, it would have been rejected by our customers' computer gurus because it didn't look like an IBM.
+-   ***Low cost Calculator*** - 300-400 rupees/-
+
+-   ***Mid cost Calculator*** - 800-1000 rupees/-
+
+-   ***High cost Calculator*** - 5000 rupees/-
+
+-   **Features**
+
+-   ***Low cost Calculator***
+
+        -   Scientific calculators include exponents, log, natural log (ln), trig functions, and memory.
+-   ***Mid cost Calculator*** 
+
+-   Include exponents, log, natural log (ln), trig functions, and memory,Scientific notation,Binary functions,dual display.
+
+-   ***High cost Calculator*** 
+
+-   Include Solar-powered with battery backup,Graphic Calculator with 2900+ functions,Advanced 3D Graphing,App can be transferred to calculator through supplied USB cable etc.
+
+-   **Timeline**
+
+-   ***Past***
+
+-   The Hewlett-Packard 9100A is an early programmable calculator, first appearing in 1968. HP called it a desktop calculator because, as Bill Hewlett said, "If we had called it a computer, it would have been rejected by our customers' computer gurus because it didn't look like an IBM.
             
              ![image](https://user-images.githubusercontent.com/60938404/161221886-2f87e17b-6225-49d5-aec4-321a6f19720f.png)
-             - The HP-35, introduced on February 1, 1972, was Hewlett-Packard's first pocket calculator and the world's first handheld scientific calculator. Like some of HP's desktop calculators it used RPN. Introduced at US$395, the HP-35 was available from 1972 to 1975.
+             
+-   The HP-35, introduced on February 1, 1972, was Hewlett-Packard's first pocket calculator and the world's first handheld scientific calculator. Like some of HP's desktop calculators it used RPN. Introduced at US$395, the HP-35 was available from 1972 to 1975.
              
              ![image](https://user-images.githubusercontent.com/60938404/161222365-d33cdfed-e4c3-4f3d-9f56-1b8c0015a13f.png)
 
+-   ***Today***
 
-        - ***Today***
-             - Casio FX-CG50 Scientific Graphic Calculator
-             - M.R.P. : 13,295.00
+-   Casio FX-CG50 Scientific Graphic Calculator
+
+-   M.R.P. : 13,295.00
   
              ![Screenshot 2022-04-01 013418](https://user-images.githubusercontent.com/60938404/161227005-c3f14b4b-f00d-49b3-94f7-9e1afb43088c.png)
 
-             - FX-991ES Plus-2nd Edition Scientific Calculator
-             - M.R.P.: 1200
+-   FX-991ES Plus-2nd Edition Scientific Calculator
+
+-   M.R.P.: 1200
              
              ![2](https://user-images.githubusercontent.com/60938404/161227943-e7440fc2-578b-47a2-979d-a1f0c101dcef.png)
 
 
-        - ***Future***
-             - We can make Calculator much more robust by adding avanced features that are usefull for science, engineering, and mathematics.
+ -   ***Future***
+ 
+ -   We can make Calculator much more robust by adding avanced features that are usefull for science, engineering, and mathematics.
 
            
 ## Defining Our System
-   - This is Scientific Calculator build using **C language**.
-   - It contains normal mathematical functions, exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot etc.
-   - The main moto of this apllication is to be comfurtable with C language,pointers,functions and main thing is to be familiar with Unit testing.
-   - ***Unit testing*** is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. This testing methodology is done during the development process by the developers.
-   - Here I used [unity framework](https://github.com/ThrowTheSwitch/Unity)
+
+-   This is Scientific Calculator build using **C language**.
+
+-   It contains normal mathematical functions, exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot etc.
+
+-   The main moto of this apllication is to be comfurtable with C language,pointers,functions and main thing is to be familiar with Unit testing.
+   
+-   ***Unit testing*** is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. This testing methodology is done during the development process by the developers.
+   
+ -   Here I used [unity framework](https://github.com/ThrowTheSwitch/Unity)
    
  ![maketest](https://user-images.githubusercontent.com/60938404/161231621-c428f0ca-b470-4b81-a38b-f3212bcbb0fa.png)
 
-
-    
-   - In this apllication I used ***Makefile*** which is special file, containing shell commands, that you create and name makefile.While in the directory containing this makefile, you will type make and the commands in the makefile will be executed.
+-   In this apllication I used ***Makefile*** which is special file, containing shell commands, that you create and name makefile.While in the directory containing this makefile, you will type make and the commands in the makefile will be executed.
    ![makerun](https://user-images.githubusercontent.com/60938404/161230876-a3b80f8e-4c46-4a1f-ace5-711a8651c093.png)
 
-   - In this apllication we are using ***Doxygen*** which is a documentation generator and static analysis tool for software source trees. When used as a documentation generator, Doxygen extracts information from specially-formatted comments within the code.
+-   In this apllication we are using ***Doxygen*** which is a documentation generator and static analysis tool for software source trees. When used as a documentation generator, Doxygen extracts information from specially-formatted comments within the code.
    
 ## SWOT ANALYSIS
-   - **SWOT analysis** is a strategic planning and strategic management technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning. It is sometimes called situational assessment or situational analysis.
-   - ***Strengths***
-        - It can perform It mathematical , exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot operations.
-        - The operations are tested during development phase using ***Unit Testing***.
-        - It has Doxygen comments.
+
+-   **SWOT analysis** is a strategic planning and strategic management technique used to help a person or organization identify strengths, weaknesses, opportunities, and threats related to business competition or project planning. It is sometimes called situational assessment or situational analysis.
+   
+-   ***Strengths***
+
+-   It can perform It mathematical , exponents, log, natural log (ln), trig functions ,power,modulo,squreroot,cuberoot operations.
+
+-   The operations are tested during development phase using ***Unit Testing***.
+
+ -   It has Doxygen comments.
         - It is easy to use using Makefile.
-   - ***Weaknesses***
+        - - ***Weaknesses***
         - We have to use one of the editor to perform operstions or calculation.
         - Specific - It will perform the mentioned operations only.
    -  ***Opportunities***
