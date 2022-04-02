@@ -70,7 +70,7 @@ int main() {
       scanf("%f",p1);
       printf("\tEnter 2nd operand :\n\t");
       scanf("%f",p2);
-      result=sub(*p1,*p2);
+      result=sub(x,y);
       printf("\t%f\n",result);
       break;
     }
