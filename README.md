@@ -13,9 +13,9 @@ Folder                | Description
 `2_Design`            | Behavioral Diagram,Structural Diagram
 `3_Implementation`    | code of Scientific Calculator
 `4_Test_plan`         | Low level test plan,High level test plan,test cases for unit testing.
-'4_TestPlanAndOutput' | Low level test plan,High level test plan,test cases for unit testing.
-'5_Report'            | All README.md files of repository.
-'6_Video'             | Working video of project and snapshots.
+`4_TestPlanAndOutput` | Low level test plan,High level test plan,test cases for unit testing.
+`5_Report`            | All README.md files of repository.
+`6_Video`             | Working video of project and snapshots.
 
 
 
