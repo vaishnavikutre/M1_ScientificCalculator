@@ -43,14 +43,16 @@ and they can provide teachers with a versatile instructional tool. Students face
 
 -   The Hewlett-Packard 9100A is an early programmable calculator, first appearing in 1968. HP called it a desktop calculator because, as Bill Hewlett said, "If we had called it a computer, it would have been rejected by our customers' computer gurus because it didn't look like an IBM.
             
-             ![image](https://user-images.githubusercontent.com/60938404/161221886-2f87e17b-6225-49d5-aec4-321a6f19720f.png)
+             
+![image](https://user-images.githubusercontent.com/60938404/161423357-10a921e1-42b4-4d34-8d1d-6576de3e14ba.png)
+
              
 
 -   The HP-35, introduced on February 1, 1972, was Hewlett-Packard's first pocket calculator and the world's first handheld scientific calculator.
 
 -   Like some of HP's desktop calculators it used RPN. Introduced at US$395, the HP-35 was available from 1972 to 1975.
              
-             ![image](https://user-images.githubusercontent.com/60938404/161222365-d33cdfed-e4c3-4f3d-9f56-1b8c0015a13f.png)
+  ![image](https://user-images.githubusercontent.com/60938404/161222365-d33cdfed-e4c3-4f3d-9f56-1b8c0015a13f.png)
 
 -   ***Today***
 
@@ -58,13 +60,13 @@ and they can provide teachers with a versatile instructional tool. Students face
 
 -   M.R.P. : 13,295.00
   
-             ![Screenshot 2022-04-01 013418](https://user-images.githubusercontent.com/60938404/161227005-c3f14b4b-f00d-49b3-94f7-9e1afb43088c.png)
+   ![Screenshot 2022-04-01 013418](https://user-images.githubusercontent.com/60938404/161227005-c3f14b4b-f00d-49b3-94f7-9e1afb43088c.png)
 
 -   FX-991ES Plus-2nd Edition Scientific Calculator
 
 -   M.R.P.: 1200
              
-             ![2](https://user-images.githubusercontent.com/60938404/161227943-e7440fc2-578b-47a2-979d-a1f0c101dcef.png)
+   ![2](https://user-images.githubusercontent.com/60938404/161227943-e7440fc2-578b-47a2-979d-a1f0c101dcef.png)
 
 -   **Future***
  
