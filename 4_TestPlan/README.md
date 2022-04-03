@@ -1,6 +1,8 @@
-## TEST PLAN
-#### Table no: Low level test plan
-     - For each ID of LLR there are 5 test cases.
+# TEST PLAN
+
+## Table no: Low level test plan
+
+-   For each ID of LLR there are 5 test cases.
 
         
   | Test ID   | ID of LLR       | Description                          | Exp I/P   | Exp O/P        | Actual Output              | 
@@ -58,7 +60,8 @@
  
  
  
- ### Table no: Low level test plan
+ ## Table no: High level test plan
+ 
  
   | Test ID   |  Description                          | Exp I/P                     | Exp O/P                                         | Actual Output                | 
   | :-------- | :-----------------------------        | :--------                   | :--------------                                 | :--------------------------  |
